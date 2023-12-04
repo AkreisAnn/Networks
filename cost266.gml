@@ -1,713 +1,308 @@
 Creator  "sndlib.ext.generators.gml.GmlGenerator"
 Version  "1.0"
 
-graph [
-  label     "cost266--D-B-E-N-C-A-N-N"
-  name      "cost266--D-B-E-N-C-A-N-N"
-  directed  1
+ graph [
+  directed 0
+  cost 266
 
   node [
-    id     0
-    label  "Amste..."
-
+    id 1
+    label "Amsterdam"
     graphics [
-      x        502.32
-      y        506.25
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 4.90
+      y 52.35
     ]
   ]
-
   node [
-    id     1
-    label  "Athens"
-
+    id 2
+    label "Athens"
     graphics [
-      x        1176.5
-      y        1240.92
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 23.73
+      y 38.00
     ]
   ]
-
   node [
-    id     2
-    label  "Barce..."
-
+    id 3
+    label "Barcelona"
     graphics [
-      x        404.94
-      y        1084.08
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 2.18
+      y 41.37
     ]
   ]
-
   node [
-    id     3
-    label  "Belgrade"
-
+    id 4
+    label "Belgrade"
     graphics [
-      x        1060.86
-      y        914.35
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 20.50
+      y 44.83
     ]
   ]
-
   node [
-    id     4
-    label  "Berlin"
-
+    id 5
+    label "Berlin"
     graphics [
-      x        806.65
-      y        496.27
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 13.40
+      y 52.52
     ]
   ]
-
   node [
-    id     5
-    label  "Birmi..."
-
+    id 6
+    label "Birmingham"
     graphics [
-      x        259.57
-      y        499.21
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -1.88
+      y 52.47
     ]
   ]
-
   node [
-    id     6
-    label  "Bordeaux"
-
+    id 7
+    label "Bordeaux"
     graphics [
-      x        306.48
-      y        913.34
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -0.57
+      y 44.85
     ]
   ]
-
   node [
-    id     7
-    label  "Brussels"
-
+    id 8
+    label "Brussels"
     graphics [
-      x        482.63
-      y        593.86
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 4.35
+      y 50.83
     ]
   ]
-
   node [
-    id     8
-    label  "Budapest"
-
+    id 9
+    label "Budapest"
     graphics [
-      x        1010.01
-      y        776.28
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 19.08
+      y 47.50
     ]
   ]
-
   node [
-    id     9
-    label  "Copen..."
-
+    id 10
+    label "Copenhagen"
     graphics [
-      x        776.93
-      y        300.66
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 12.57
+      y 55.72
     ]
   ]
-
   node [
-    id     10
-    label  "Dublin"
-
+    id 11
+    label "Dublin"
     graphics [
-      x        103.11
-      y        448.16
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -6.25
+      y 53.33
     ]
   ]
-
   node [
-    id     11
-    label  "Dusse..."
-
+    id 12
+    label "Dusseldorf"
     graphics [
-      x        569.63
-      y        571.08
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 6.78
+      y 51.23
     ]
   ]
-
   node [
-    id     12
-    label  "Frank..."
-
+    id 13
+    label "Frankfurt"
     graphics [
-      x        637.3
-      y        634.92
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 8.67
+      y 50.10
     ]
   ]
-
   node [
-    id     13
-    label  "Glasgow"
-
+    id 14
+    label "Glasgow"
     graphics [
-      x        174.72
-      y        292.38
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -4.25
+      y 55.85
     ]
   ]
-
   node [
-    id     14
-    label  "Hamburg"
-
+    id 15
+    label "Hamburg"
     graphics [
-      x        685.64
-      y        434.94
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 10.02
+      y 53.55
     ]
   ]
-
   node [
-    id     15
-    label  "Helsinki"
-
+    id 16
+    label "Helsinki"
     graphics [
-      x        1220.9
-      y        0.0
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 24.97
+      y 60.17
     ]
   ]
-
   node [
-    id     16
-    label  "Krakow"
-
+    id 17
+    label "Krakow"
     graphics [
-      x        1041.16
-      y        637.71
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 19.95
+      y 50.05
     ]
   ]
-
   node [
-    id     17
-    label  "Lisbon"
-
+    id 18
+    label "Lisbon"
     graphics [
-      x        0.0
-      y        1207.59
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -9.13
+      y 38.73
     ]
   ]
-
   node [
-    id     18
-    label  "London"
-
+    id 19
+    label "London"
     graphics [
-      x        320.8
-      y        555.6
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -0.17
+      y 51.50
     ]
   ]
-
   node [
-    id     19
-    label  "Lyon"
-
+    id 20
+    label "Lyon"
     graphics [
-      x        499.82
-      y        868.55
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 4.83
+      y 45.73
     ]
   ]
-
   node [
-    id     20
-    label  "Madrid"
-
+    id 21
+    label "Madrid"
     graphics [
-      x        193.7
-      y        1129.08
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -3.72
+      y 40.42
     ]
   ]
-
   node [
-    id     21
-    label  "Marse..."
-
+    id 22
+    label "Marseille"
     graphics [
-      x        519.15
-      y        990.59
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 5.37
+      y 43.30
     ]
   ]
-
   node [
-    id     22
-    label  "Milan"
-
+    id 23
+    label "Milan"
     graphics [
-      x        655.2
-      y        881.86
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 9.17
+      y 45.47
     ]
   ]
-
   node [
-    id     23
-    label  "Munich"
-
+    id 24
+    label "Munich"
     graphics [
-      x        741.13
-      y        742.69
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 11.57
+      y 48.13
     ]
   ]
-
   node [
-    id     24
-    label  "Oslo"
-
+    id 25
+    label "Oslo"
     graphics [
-      x        711.77
-      y        17.21
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 10.75
+      y 59.93
     ]
   ]
-
   node [
-    id     25
-    label  "Palermo"
-
+    id 26
+    label "Palermo"
     graphics [
-      x        804.86
-      y        1235.47
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 13.35
+      y 38.12
     ]
   ]
-
   node [
-    id     26
-    label  "Paris"
-
+    id 27
+    label "Paris"
     graphics [
-      x        410.31
-      y        702.71
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 2.33
+      y 48.87
     ]
   ]
-
   node [
-    id     27
-    label  "Prague"
-
+    id 28
+    label "Prague"
     graphics [
-      x        843.53
-      y        636.03
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 14.43
+      y 50.08
     ]
   ]
-
   node [
-    id     28
-    label  "Rome"
-
+    id 29
+    label "Rome"
     graphics [
-      x        774.43
-      y        1059.65
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 12.50
+      y 41.88
     ]
   ]
-
   node [
-    id     29
-    label  "Seville"
-
+    id 30
+    label "Seville"
     graphics [
-      x        112.78
-      y        1268.97
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x -5.98
+      y 37.38
     ]
   ]
-
   node [
-    id     30
-    label  "Sofia"
-
+    id 31
+    label "Sofia"
     graphics [
-      x        1162.18
-      y        1017.53
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 23.33
+      y 42.75
     ]
   ]
-
   node [
-    id     31
-    label  "Stock..."
-
+    id 32
+    label "Stockholm"
     graphics [
-      x        973.14
-      y        59.7
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 18.05
+      y 59.33
     ]
   ]
-
   node [
-    id     32
-    label  "Stras..."
-
+    id 33
+    label "Strasbourg"
     graphics [
-      x        605.08
-      y        718.45
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 7.77
+      y 48.58
     ]
   ]
-
   node [
-    id     33
-    label  "Vienna"
-
+    id 34
+    label "Vienna"
     graphics [
-      x        912.99
-      y        737.86
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 16.37
+      y 48.22
     ]
   ]
-
   node [
-    id     34
-    label  "Warsaw"
-
+    id 35
+    label "Warsaw"
     graphics [
-      x        1078.76
-      y        512.1
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 21.00
+      y 52.25
     ]
   ]
-
   node [
-    id     35
-    label  "Zagreb"
-
+    id 36
+    label "Zagreb"
     graphics [
-      x        900.46
-      y        863.42
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 16.02
+      y 45.83
     ]
   ]
-
   node [
-    id     36
-    label  "Zurich"
-
+    id 37
+    label "Zurich"
     graphics [
-      x        633.0
-      y        782.64
-      h        20
-      w        60
-      fill     "#cccccc"
-      outline  "#000000"
-      type     "ellipse"
-    ]
-
-    LabelGraphics [
-      fontSize  11
+      x 8.55
+      y 47.38
     ]
   ]
+]
+
 
   edge [
     id      0
