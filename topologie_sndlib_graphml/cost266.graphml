@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
   <key for="node" id="d0" yfiles.type="nodegraphics"/>
   <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
