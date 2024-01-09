@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="at1.at">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.3729" y="48.2091"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="be1.be">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="4.3518" y="50.8469"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ch1.ch">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.1399" y="46.2038"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="cz1.cz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.4423" y="50.0785"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="de1.de">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.6842" y="50.1122"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="es1.es">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-3.7033" y="40.4167"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="fr1.fr">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="2.351" y="48.8566"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="gr1.gr">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="23.5808" y="37.9778"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="hr1.hr">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="15.9644" y="45.8071"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="hu1.hu">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="19.0936" y="47.4976"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ie1.ie">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-6.2573" y="53.3416"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="il1.il">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="34.8097" y="32.0714"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="it1.it">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.19" y="45.4642"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="lu1.lu">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.1296" y="49.6112"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="nl1.nl">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="4.9407" y="52.3236"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ny1.ny">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-73.94384" y="40.6698"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="pl1.pl">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.8874" y="52.3963"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="pt1.pt">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-9.1363" y="38.7073"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="se1.se">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="17.8742" y="59.3617"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="si1.si">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.5148" y="46.0574"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="sk1.sk">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="17.1297" y="48.1531"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="uk1.uk">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-0.1264" y="51.5086"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="at1.at" target="ch1.ch">
+      <data key="d1">40000</data>
+      <data key="d2">804</data>
+    </edge>
+    <edge source="at1.at" target="de1.de">
+      <data key="d1">40000</data>
+      <data key="d2">598</data>
+    </edge>
+    <edge source="at1.at" target="hu1.hu">
+      <data key="d1">40000</data>
+      <data key="d2">218</data>
+    </edge>
+    <edge source="at1.at" target="ny1.ny">
+      <data key="d1">40000</data>
+      <data key="d2">6802</data>
+    </edge>
+    <edge source="at1.at" target="si1.si">
+      <data key="d1">40000</data>
+      <data key="d2">277</data>
+    </edge>
+    <edge source="be1.be" target="fr1.fr">
+      <data key="d1">40000</data>
+      <data key="d2">264</data>
+    </edge>
+    <edge source="be1.be" target="lu1.lu">
+      <data key="d1">40000</data>
+      <data key="d2">186</data>
+    </edge>
+    <edge source="be1.be" target="nl1.nl">
+      <data key="d1">40000</data>
+      <data key="d2">169</data>
+    </edge>
+    <edge source="ch1.ch" target="fr1.fr">
+      <data key="d1">40000</data>
+      <data key="d2">410</data>
+    </edge>
+    <edge source="ch1.ch" target="it1.it">
+      <data key="d1">40000</data>
+      <data key="d2">250</data>
+    </edge>
+    <edge source="cz1.cz" target="de1.de">
+      <data key="d1">40000</data>
+      <data key="d2">411</data>
+    </edge>
+    <edge source="cz1.cz" target="pl1.pl">
+      <data key="d1">40000</data>
+      <data key="d2">309</data>
+    </edge>
+    <edge source="cz1.cz" target="sk1.sk">
+      <data key="d1">40000</data>
+      <data key="d2">290</data>
+    </edge>
+    <edge source="de1.de" target="fr1.fr">
+      <data key="d1">40000</data>
+      <data key="d2">478</data>
+    </edge>
+    <edge source="de1.de" target="gr1.gr">
+      <data key="d1">40000</data>
+      <data key="d2">1794</data>
+    </edge>
+    <edge source="de1.de" target="ie1.ie">
+      <data key="d1">40000</data>
+      <data key="d2">1088</data>
+    </edge>
+    <edge source="de1.de" target="it1.it">
+      <data key="d1">40000</data>
+      <data key="d2">518</data>
+    </edge>
+    <edge source="de1.de" target="nl1.nl">
+      <data key="d1">40000</data>
+      <data key="d2">358</data>
+    </edge>
+    <edge source="de1.de" target="se1.se">
+      <data key="d1">40000</data>
+      <data key="d2">1184</data>
+    </edge>
+    <edge source="es1.es" target="fr1.fr">
+      <data key="d1">40000</data>
+      <data key="d2">1054</data>
+    </edge>
+    <edge source="es1.es" target="it1.it">
+      <data key="d1">40000</data>
+      <data key="d2">1189</data>
+    </edge>
+    <edge source="es1.es" target="pt1.pt">
+      <data key="d1">40000</data>
+      <data key="d2">503</data>
+    </edge>
+    <edge source="fr1.fr" target="lu1.lu">
+      <data key="d1">40000</data>
+      <data key="d2">287</data>
+    </edge>
+    <edge source="fr1.fr" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">343</data>
+    </edge>
+    <edge source="gr1.gr" target="it1.it">
+      <data key="d1">40000</data>
+      <data key="d2">1453</data>
+    </edge>
+    <edge source="hr1.hr" target="hu1.hu">
+      <data key="d1">40000</data>
+      <data key="d2">304</data>
+    </edge>
+    <edge source="hr1.hr" target="si1.si">
+      <data key="d1">40000</data>
+      <data key="d2">115</data>
+    </edge>
+    <edge source="hu1.hu" target="sk1.sk">
+      <data key="d1">40000</data>
+      <data key="d2">163</data>
+    </edge>
+    <edge source="ie1.ie" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">463</data>
+    </edge>
+    <edge source="il1.il" target="it1.it">
+      <data key="d1">40000</data>
+      <data key="d2">2658</data>
+    </edge>
+    <edge source="il1.il" target="nl1.nl">
+      <data key="d1">40000</data>
+      <data key="d2">3296</data>
+    </edge>
+    <edge source="nl1.nl" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">359</data>
+    </edge>
+    <edge source="ny1.ny" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">5575</data>
+    </edge>
+    <edge source="pl1.pl" target="se1.se">
+      <data key="d1">40000</data>
+      <data key="d2">777</data>
+    </edge>
+    <edge source="pt1.pt" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">1588</data>
+    </edge>
+    <edge source="se1.se" target="uk1.uk">
+      <data key="d1">40000</data>
+      <data key="d2">1426</data>
+    </edge>
+  </graph>
+</graphml>

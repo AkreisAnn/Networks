@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="Palo-Alto">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-122.07" y="37.25"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="San-Diego">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-117.08" y="32.42"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Boulder">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-105.16" y="40.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Washington">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-77.02" y="38.52"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Atlanta">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-84.23" y="33.44"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Urbana-Champaign">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-88.14" y="40.06"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Ann-Arbor">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-83.43" y="42.16"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Lincoln">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-96.42" y="40.47"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Princeton">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-74.39" y="40.21"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Ithaca">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-76.3" y="42.26"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Pittsburgh">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-79.58" y="40.26"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Houston">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-95.21" y="29.45"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Salt-Lake-City">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-111.55" y="40.39"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Seattle">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-122.24" y="47.33"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="Palo-Alto" target="San-Diego">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Palo-Alto" target="Salt-Lake-City">
+      <data key="d1">16400</data>
+      <data key="d2">3890200</data>
+    </edge>
+    <edge source="Palo-Alto" target="Seattle">
+      <data key="d1">16400</data>
+      <data key="d2">4251400</data>
+    </edge>
+    <edge source="San-Diego" target="Houston">
+      <data key="d1">16400</data>
+      <data key="d2">6960400</data>
+    </edge>
+    <edge source="San-Diego" target="Seattle">
+      <data key="d1">16400</data>
+      <data key="d2">5876800</data>
+    </edge>
+    <edge source="Boulder" target="Lincoln">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Boulder" target="Houston">
+      <data key="d1">16400</data>
+      <data key="d2">5154400</data>
+    </edge>
+    <edge source="Boulder" target="Salt-Lake-City">
+      <data key="d1">16400</data>
+      <data key="d2">2806600</data>
+    </edge>
+    <edge source="Washington" target="Princeton">
+      <data key="d1">16400</data>
+      <data key="d2">1903600</data>
+    </edge>
+    <edge source="Washington" target="Ithaca">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Washington" target="Houston">
+      <data key="d1">16400</data>
+      <data key="d2">6599200</data>
+    </edge>
+    <edge source="Atlanta" target="Pittsburgh">
+      <data key="d1">16400</data>
+      <data key="d2">3529000</data>
+    </edge>
+    <edge source="Atlanta" target="Houston">
+      <data key="d1">16400</data>
+      <data key="d2">4251400</data>
+    </edge>
+    <edge source="Urbana-Champaign" target="Lincoln">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Urbana-Champaign" target="Pittsburgh">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Urbana-Champaign" target="Seattle">
+      <data key="d1">16400</data>
+      <data key="d2">8947000</data>
+    </edge>
+    <edge source="Ann-Arbor" target="Princeton">
+      <data key="d1">16400</data>
+      <data key="d2">3348400</data>
+    </edge>
+    <edge source="Ann-Arbor" target="Ithaca">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Ann-Arbor" target="Salt-Lake-City">
+      <data key="d1">16400</data>
+      <data key="d2">7682800</data>
+    </edge>
+    <edge source="Princeton" target="Pittsburgh">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Ithaca" target="Pittsburgh">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+  </graph>
+</graphml>

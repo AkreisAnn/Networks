@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="359.0" y="375.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="223.0" y="255.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="406.0" y="233.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="384.0" y="37.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="394.0" y="137.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="223.0" y="71.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="56.0" y="347.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.0" y="193.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="210.0" y="456.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="164.0" y="374.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="106.0" y="37.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="7" target="8">
+      <data key="d1">63</data>
+      <data key="d2">1107800</data>
+    </edge>
+    <edge source="1" target="3">
+      <data key="d1">63</data>
+      <data key="d2">294200</data>
+    </edge>
+    <edge source="1" target="7">
+      <data key="d1">63</data>
+      <data key="d2">1043600</data>
+    </edge>
+    <edge source="1" target="9">
+      <data key="d1">63</data>
+      <data key="d2">751400</data>
+    </edge>
+    <edge source="2" target="3">
+      <data key="d1">63</data>
+      <data key="d2">206600</data>
+    </edge>
+    <edge source="2" target="4">
+      <data key="d1">63</data>
+      <data key="d2">320000</data>
+    </edge>
+    <edge source="2" target="5">
+      <data key="d1">63</data>
+      <data key="d2">393800</data>
+    </edge>
+    <edge source="2" target="6">
+      <data key="d1">63</data>
+      <data key="d2">366200</data>
+    </edge>
+    <edge source="2" target="8">
+      <data key="d1">63</data>
+      <data key="d2">446600</data>
+    </edge>
+    <edge source="4" target="8">
+      <data key="d1">63</data>
+      <data key="d2">338000</data>
+    </edge>
+    <edge source="4" target="9">
+      <data key="d1">63</data>
+      <data key="d2">574400</data>
+    </edge>
+    <edge source="6" target="8">
+      <data key="d1">63</data>
+      <data key="d2">636200</data>
+    </edge>
+    <edge source="3" target="6">
+      <data key="d1">63</data>
+      <data key="d2">417200</data>
+    </edge>
+    <edge source="3" target="8">
+      <data key="d1">63</data>
+      <data key="d2">423800</data>
+    </edge>
+    <edge source="3" target="9">
+      <data key="d1">63</data>
+      <data key="d2">744800</data>
+    </edge>
+    <edge source="5" target="6">
+      <data key="d1">63</data>
+      <data key="d2">201200</data>
+    </edge>
+    <edge source="5" target="8">
+      <data key="d1">63</data>
+      <data key="d2">674600</data>
+    </edge>
+    <edge source="5" target="9">
+      <data key="d1">63</data>
+      <data key="d2">753200</data>
+    </edge>
+    <edge source="10" target="9">
+      <data key="d1">63</data>
+      <data key="d2">422000</data>
+    </edge>
+    <edge source="8" target="10">
+      <data key="d1">63</data>
+      <data key="d2">437600</data>
+    </edge>
+    <edge source="4" target="10">
+      <data key="d1">63</data>
+      <data key="d2">326600</data>
+    </edge>
+    <edge source="1" target="11">
+      <data key="d1">63</data>
+      <data key="d2">359600</data>
+    </edge>
+    <edge source="2" target="11">
+      <data key="d1">63</data>
+      <data key="d2">525800</data>
+    </edge>
+    <edge source="11" target="7">
+      <data key="d1">63</data>
+      <data key="d2">1052000</data>
+    </edge>
+    <edge source="11" target="8">
+      <data key="d1">63</data>
+      <data key="d2">392000</data>
+    </edge>
+    <edge source="11" target="4">
+      <data key="d1">63</data>
+      <data key="d2">512000</data>
+    </edge>
+    <edge source="7" target="4">
+      <data key="d1">63</data>
+      <data key="d2">632000</data>
+    </edge>
+    <edge source="7" target="10">
+      <data key="d1">63</data>
+      <data key="d2">602000</data>
+    </edge>
+    <edge source="1" target="10">
+      <data key="d1">63</data>
+      <data key="d2">662000</data>
+    </edge>
+    <edge source="2" target="10">
+      <data key="d1">63</data>
+      <data key="d2">560000</data>
+    </edge>
+    <edge source="3" target="10">
+      <data key="d1">63</data>
+      <data key="d2">812000</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="d1">63</data>
+      <data key="d2">632000</data>
+    </edge>
+    <edge source="11" target="3">
+      <data key="d1">63</data>
+      <data key="d2">272000</data>
+    </edge>
+    <edge source="3" target="5">
+      <data key="d1">63</data>
+      <data key="d2">440000</data>
+    </edge>
+    <edge source="6" target="10">
+      <data key="d1">63</data>
+      <data key="d2">332000</data>
+    </edge>
+    <edge source="7" target="9">
+      <data key="d1">63</data>
+      <data key="d2">452000</data>
+    </edge>
+    <edge source="1" target="8">
+      <data key="d1">63</data>
+      <data key="d2">272000</data>
+    </edge>
+    <edge source="11" target="6">
+      <data key="d1">63</data>
+      <data key="d2">692000</data>
+    </edge>
+    <edge source="11" target="9">
+      <data key="d1">63</data>
+      <data key="d2">812000</data>
+    </edge>
+    <edge source="4" target="5">
+      <data key="d1">63</data>
+      <data key="d2">452000</data>
+    </edge>
+    <edge source="5" target="7">
+      <data key="d1">63</data>
+      <data key="d2">632000</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="d1">63</data>
+      <data key="d2">212000</data>
+    </edge>
+  </graph>
+</graphml>

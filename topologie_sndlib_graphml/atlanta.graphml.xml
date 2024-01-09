@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="N1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="283.0" y="248.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="451.0" y="201.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="516.0" y="230.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="324.0" y="43.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="459.0" y="31.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="339.0" y="151.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="185.0" y="323.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="384.0" y="298.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="318.0" y="353.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="147.0" y="403.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="56.0" y="132.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N12">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="253.0" y="466.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N13">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="216.0" y="59.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N14">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="97.0" y="218.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N15">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="463.0" y="431.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="N1" target="N6">
+      <data key="d1">5000</data>
+      <data key="d2">2040000</data>
+    </edge>
+    <edge source="N1" target="N7">
+      <data key="d1">5000</data>
+      <data key="d2">1890000</data>
+    </edge>
+    <edge source="N1" target="N8">
+      <data key="d1">5000</data>
+      <data key="d2">2160000</data>
+    </edge>
+    <edge source="N2" target="N3">
+      <data key="d1">5000</data>
+      <data key="d2">2100000</data>
+    </edge>
+    <edge source="N2" target="N5">
+      <data key="d1">5000</data>
+      <data key="d2">3720000</data>
+    </edge>
+    <edge source="N2" target="N6">
+      <data key="d1">5000</data>
+      <data key="d2">1290000</data>
+    </edge>
+    <edge source="N3" target="N5">
+      <data key="d1">5000</data>
+      <data key="d2">4260000</data>
+    </edge>
+    <edge source="N3" target="N8">
+      <data key="d1">5000</data>
+      <data key="d2">1890000</data>
+    </edge>
+    <edge source="N4" target="N5">
+      <data key="d1">5000</data>
+      <data key="d2">2730000</data>
+    </edge>
+    <edge source="N4" target="N6">
+      <data key="d1">5000</data>
+      <data key="d2">3990000</data>
+    </edge>
+    <edge source="N6" target="N13">
+      <data key="d1">5000</data>
+      <data key="d2">6540000</data>
+    </edge>
+    <edge source="N7" target="N10">
+      <data key="d1">5000</data>
+      <data key="d2">2430000</data>
+    </edge>
+    <edge source="N7" target="N14">
+      <data key="d1">5000</data>
+      <data key="d2">3030000</data>
+    </edge>
+    <edge source="N8" target="N9">
+      <data key="d1">5000</data>
+      <data key="d2">2370000</data>
+    </edge>
+    <edge source="N8" target="N15">
+      <data key="d1">5000</data>
+      <data key="d2">2520000</data>
+    </edge>
+    <edge source="N9" target="N10">
+      <data key="d1">5000</data>
+      <data key="d2">2010000</data>
+    </edge>
+    <edge source="N9" target="N12">
+      <data key="d1">5000</data>
+      <data key="d2">2400000</data>
+    </edge>
+    <edge source="N9" target="N15">
+      <data key="d1">5000</data>
+      <data key="d2">2280000</data>
+    </edge>
+    <edge source="N10" target="N12">
+      <data key="d1">5000</data>
+      <data key="d2">3150000</data>
+    </edge>
+    <edge source="N11" target="N13">
+      <data key="d1">5000</data>
+      <data key="d2">2310000</data>
+    </edge>
+    <edge source="N11" target="N14">
+      <data key="d1">5000</data>
+      <data key="d2">3540000</data>
+    </edge>
+    <edge source="N13" target="N14">
+      <data key="d1">5000</data>
+      <data key="d2">1800000</data>
+    </edge>
+  </graph>
+</graphml>

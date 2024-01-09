@@ -1,0 +1,2463 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="ADH">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.421921" y="48.559341"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.23883" y="48.900838"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.090515" y="48.705463"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.068542" y="48.502048"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.079529" y="48.327039"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.167419" y="48.228332"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.370666" y="48.118434"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.579407" y="48.034019"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.876037" y="47.956824"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.2276" y="47.886881"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH63">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.650574" y="47.905296"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.930725" y="48.011975"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.122986" y="48.253941"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ADH9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.1651" y="48.4711"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.827797" y="52.536273"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.051086" y="52.925463"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.221832" y="53.009826"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.490997" y="53.059374"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK12">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.779388" y="53.112163"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.067779" y="53.128646"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK20">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.378143" y="53.108865"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.584137" y="53.044516"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.787384" y="52.956912"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.924713" y="52.852547"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.007111" y="52.731302"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.042816" y="52.681378"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.04007" y="52.611387"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK42">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.985138" y="52.522906"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.932953" y="52.445966"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.845062" y="52.40577"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.779144" y="52.311837"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.633575" y="52.251346"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CVK9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.391876" y="52.172247"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.664619" y="48.748493"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.048798" y="48.967597"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.221832" y="48.888198"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.411346" y="48.796009"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW13">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.419586" y="48.672826"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.323456" y="48.552978"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.375641" y="48.367198"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.002106" y="48.429201"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.980133" y="48.253941"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.807098" y="48.383618"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW63">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.584625" y="48.140432"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW64">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.488495" y="48.361724"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.3237" y="48.432845"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HTW9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.186371" y="48.554796"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.906231" y="51.285541"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.754425" y="51.566827"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.845062" y="51.594135"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU17">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.91922" y="51.592429"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU19">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.062042" y="51.602666"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.191132" y="51.573656"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU20">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.300995" y="51.553167"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.419098" y="51.548043"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.435577" y="51.465986"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.46579" y="51.380353"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.490738" y="51.342623"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.443817" y="51.275662"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.405365" y="51.218927"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU43">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.300995" y="51.182786"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.152679" y="51.103522"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.037323" y="51.05866"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.91098" y="51.036213"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.803863" y="51.031031"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HU9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.118576" y="51.214626"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.334716" y="50.555325"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.131683" y="50.651202"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.098724" y="50.765997"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.043793" y="50.870111"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.931183" y="50.949776"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK20">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.843292" y="51.024121"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.670258" y="51.108696"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.477997" y="51.18623"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.313202" y="51.244725"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.137421" y="51.251601"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.011078" y="51.239566"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.857269" y="51.217207"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK44">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.7117" y="51.129384"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.634796" y="51.084547"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.515549" y="51.011163"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK64">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.442764" y="50.944584"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.402939" y="50.85971"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.372726" y="50.750359"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SPK9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.774628" y="51.093173"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.678711" y="53.291489"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.999847" y="53.075878"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.966888" y="53.206033"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.980621" y="53.271783"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU12">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.999847" y="53.357109"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU18">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.082245" y="53.442264"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU19">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.148163" y="53.491314"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.260773" y="53.554994"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.376129" y="53.589244"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.529938" y="53.605544"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.697479" y="53.594135"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.878754" y="53.581092"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.007843" y="53.540307"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.164398" y="53.488046"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.290741" y="53.399707"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.381378" y="53.265213"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU63">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.389618" y="53.22248"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.400604" y="53.135238"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="TU8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.389618" y="53.026348"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.411379" y="52.348973"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.793884" y="52.133488"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.486267" y="52.291683"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP20">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.326965" y="52.526248"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.398376" y="52.722986"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.50824" y="52.908902"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.733459" y="53.021392"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.178406" y="53.018088"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.458557" y="52.961875"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.826599" y="52.829321"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="UP7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.073791" y="52.66972"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.360021" y="50.569174"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.963654" y="50.835432"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.86203" y="50.937662"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.694488" y="51.029304"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS13">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.554413" y="51.100073"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.370392" y="51.141448"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.169891" y="51.163844"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.936432" y="51.139725"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.812836" y="51.034486"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.749664" y="50.942854"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.659027" y="50.830228"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WIAS9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.653534" y="50.726024"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.228804" y="50.77783"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB100">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.556762" y="51.570241"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB101">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.282104" y="51.658927"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB102">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.095337" y="51.69299"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB104">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.820678" y="51.652111"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB124">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.655884" y="51.645294"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB143">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.513061" y="51.597548"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB144">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.33728" y="51.57707"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.150512" y="51.467697"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.062622" y="51.412912"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.974731" y="51.330612"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.963745" y="51.241286"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB61">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.930786" y="51.165567"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB62">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.90744" y="51.125937"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB63">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.877228" y="51.036213"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB64">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.843811" y="50.961887"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB65">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.827789" y="50.927276"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB66">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.794372" y="50.861444"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB67">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.80307" y="50.743408"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB68">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.806274" y="50.659908"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB69">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.885467" y="50.583237"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB70">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="5.940399" y="50.523905"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB77">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.01181" y="50.459253"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB79">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.061249" y="50.408518"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB81">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.118927" y="50.357728"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB82">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.198578" y="50.322669"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB83">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.319427" y="50.287584"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB85">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.481476" y="50.270032"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB87">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.613312" y="50.273543"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB95">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.76712" y="50.277054"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB96">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.890716" y="50.291094"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB97">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.082977" y="50.319162"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB98">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.261505" y="50.343708"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ZIB99">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.440491" y="50.436516"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="HU" target="HU5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU4">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU2">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK2" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB66" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB87" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS10" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK20">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB143">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB144">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH11" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK23" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK21" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS2" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH21" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW5" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH6" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU5" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK9" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK5" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK1" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK23" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK22" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB63" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH10" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU24" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU4" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB97" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP20" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB70" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP10" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB124">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK20" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK5" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU8" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS13" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW13" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP24" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS7" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK7" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK6" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP23" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS9" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU20" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB77">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK42" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW64" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB70">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU21" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB79">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP1" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS11" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU8" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK20" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK64">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU7" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB85">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB87">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB81">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP7" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB82">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB83">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB62" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU2">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU4">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW63" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH8" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU22" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU23" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK10" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB96" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH24" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB124" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK24" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW22" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP21" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU2" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK44">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW1" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU23" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU22" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU18" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS4" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB61">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB62">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH3" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB63">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB64">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB65">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW23" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB66">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB67">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB68">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB69">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP3" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB82" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB100" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB64" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU43" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW24" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP22" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH22" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU19" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU3" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB102" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB68" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK4">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU21" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK2">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB104" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB143" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK10" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH9" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS5" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP20">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="SPK6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK21" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK2">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU17" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK4">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW7" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK3">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH5" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS1" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH23" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU4" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU63" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS8" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP" target="UP23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB95">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK9" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB97">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB96">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB99">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB98">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK6" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH63">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH63" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW10" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK11" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB79" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU18">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU19">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB67" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU12">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB144" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK24" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="UP5" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB101">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB100">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW9" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB104">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="ZIB102">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU10" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB23" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU2" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW63">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW64">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK42">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU3" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK44" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB65" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK1" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB95" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU11" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="UP">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU1" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW11" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB85" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW13">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB98" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS13">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK64" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU1" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK8" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB99" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB101" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU12" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK22" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS6" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS6">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS4">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK4" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB21" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS2">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU19" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB24" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK20">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS9">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS8">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU20">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS7">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU43">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU24" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU19">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB61" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU17">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK12" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU10" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB22" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="WIAS" target="WIAS11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK3" target="CVK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW21" target="HTW">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK4" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB83" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="WIAS">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW5">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH22">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH7" target="ADH">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH21">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ADH" target="ADH23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU9" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HTW" target="HTW1">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK3" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU7" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB77" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK7" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU23">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU" target="HU24">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK2" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU6" target="TU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK11">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK10">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK11" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB81" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="CVK" target="CVK12">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="SPK8" target="SPK">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="TU" target="TU63">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU5" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="ZIB69" target="ZIB">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+    <edge source="HU6" target="HU">
+      <data key="d1">1.1e+10</data>
+      <data key="d2">1180.59</data>
+    </edge>
+  </graph>
+</graphml>

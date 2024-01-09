@@ -1,0 +1,710 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="Aachen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.04" y="50.76"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Augsburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.9" y="48.33"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bayreuth">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.59" y="49.93"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Berlin">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.39" y="52.52"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bielefeld">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.5" y="52.04"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Braunschweig">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.55" y="52.28"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bremen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.85" y="53.11"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bremerhaven">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.58" y="53.54"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Chemnitz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.93" y="50.84"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Darmstadt">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.65" y="49.89"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Dortmund">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.45" y="51.51"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Dresden">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.73" y="51.03"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Duesseldorf">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.77" y="51.25"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Erfurt">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.04" y="50.98"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Essen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.02" y="51.46"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Flensburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.45" y="54.77"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.71" y="50.12"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Freiburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.8" y="47.98"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Fulda">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.69" y="50.56"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Giessen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.67" y="50.57"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Greifswald">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.4" y="54.09"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.99" y="53.57"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Hannover">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.72" y="52.38"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Kaiserslautern">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.75" y="49.43"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Karlsruhe">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.41" y="49.01"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Kassel">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.51" y="51.32"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Kempten">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.32" y="47.72"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Kiel">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.12" y="54.34"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Koblenz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.52" y="50.4"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Koeln">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.87" y="50.94"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Konstanz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.18" y="47.66"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Leipzig">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.38" y="51.34"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Magdeburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.64" y="52.14"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Mannheim">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.49" y="49.49"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Muenchen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.57" y="48.15"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Muenster">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.6" y="51.97"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Norden">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.21" y="53.6"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Nuernberg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.03" y="49.57"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Oldenburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.21" y="53.11"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Osnabrueck">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.03" y="52.28"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Passau">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.46" y="48.57"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Regensburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.09" y="49.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Saarbruecken">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.03" y="49.23"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Schwerin">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.45" y="53.55"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Siegen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.03" y="50.91"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Stuttgart">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.1" y="48.74"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Trier">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.68" y="49.75"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Ulm">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.99" y="48.4"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Wesel">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="6.37" y="51.39"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Wuerzburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.97" y="49.78"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="Duesseldorf" target="Essen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Dortmund" target="Essen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Wesel" target="Essen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Koeln" target="Duesseldorf">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Aachen" target="Koeln">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Koblenz" target="Koeln">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Muenster" target="Dortmund">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Siegen" target="Dortmund">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kassel" target="Dortmund">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Wesel" target="Aachen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Trier" target="Aachen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bielefeld" target="Muenster">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Osnabrueck" target="Muenster">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Siegen" target="Koblenz">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Frankfurt" target="Koblenz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kaiserslautern" target="Koblenz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Trier" target="Koblenz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bielefeld" target="Siegen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Giessen" target="Siegen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Oldenburg" target="Wesel">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Norden" target="Wesel">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Leipzig" target="Berlin">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Dresden" target="Berlin">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Schwerin" target="Berlin">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Magdeburg" target="Berlin">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Greifswald" target="Berlin">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Dresden" target="Leipzig">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Erfurt" target="Leipzig">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Magdeburg" target="Leipzig">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bayreuth" target="Leipzig">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Erfurt" target="Dresden">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Chemnitz" target="Dresden">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Chemnitz" target="Erfurt">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kassel" target="Erfurt">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Wuerzburg" target="Erfurt">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bayreuth" target="Chemnitz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Magdeburg" target="Schwerin">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Greifswald" target="Schwerin">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Hamburg" target="Schwerin">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kiel" target="Schwerin">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Braunschweig" target="Magdeburg">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Kiel" target="Hamburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Hannover" target="Hamburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Braunschweig" target="Hamburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Oldenburg" target="Bremen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Bremerhaven" target="Bremen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Hannover" target="Bremen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Flensburg" target="Kiel">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Norden" target="Oldenburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Osnabrueck" target="Oldenburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bremerhaven" target="Flensburg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bielefeld" target="Hannover">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Braunschweig" target="Hannover">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Osnabrueck" target="Hannover">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Braunschweig" target="Bielefeld">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kassel" target="Braunschweig">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Giessen" target="Kassel">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Fulda" target="Kassel">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Darmstadt" target="Frankfurt">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Giessen" target="Frankfurt">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Fulda" target="Frankfurt">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Mannheim" target="Darmstadt">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Kaiserslautern" target="Darmstadt">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Karlsruhe" target="Mannheim">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Saarbruecken" target="Kaiserslautern">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Karlsruhe" target="Kaiserslautern">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Fulda" target="Giessen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Saarbruecken" target="Trier">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Wuerzburg" target="Fulda">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Karlsruhe" target="Saarbruecken">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Karlsruhe" target="Stuttgart">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Ulm" target="Stuttgart">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Konstanz" target="Stuttgart">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Wuerzburg" target="Stuttgart">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Freiburg" target="Karlsruhe">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Augsburg" target="Ulm">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Freiburg" target="Konstanz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Kempten" target="Konstanz">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Augsburg" target="Muenchen">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Kempten" target="Muenchen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Passau" target="Muenchen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Nuernberg" target="Muenchen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Regensburg" target="Muenchen">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Wuerzburg" target="Augsburg">
+      <data key="d1">40</data>
+      <data key="d2">4150</data>
+    </edge>
+    <edge source="Regensburg" target="Passau">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Bayreuth" target="Nuernberg">
+      <data key="d1">40</data>
+      <data key="d2">3290</data>
+    </edge>
+    <edge source="Wuerzburg" target="Nuernberg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+    <edge source="Regensburg" target="Nuernberg">
+      <data key="d1">40</data>
+      <data key="d2">3720</data>
+    </edge>
+  </graph>
+</graphml>

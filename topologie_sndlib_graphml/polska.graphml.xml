@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="Gdansk">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="18.6" y="54.2"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bydgoszcz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="17.9" y="53.1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Kolobrzeg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.1" y="54.2"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Katowice">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="18.8" y="50.3"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Krakow">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="19.8" y="50.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bialystok">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="23.1" y="53.1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Lodz">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="19.4" y="51.7"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Poznan">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.8" y="52.4"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Rzeszow">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="21.9" y="50.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Szczecin">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.5" y="53.4"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Warsaw">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="21.0" y="52.2"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Wroclaw">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.9" y="51.1"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="Gdansk" target="Warsaw">
+      <data key="d1">777</data>
+      <data key="d2">624</data>
+    </edge>
+    <edge source="Gdansk" target="Kolobrzeg">
+      <data key="d1">777</data>
+      <data key="d2">1088</data>
+    </edge>
+    <edge source="Bydgoszcz" target="Kolobrzeg">
+      <data key="d1">777</data>
+      <data key="d2">624</data>
+    </edge>
+    <edge source="Bydgoszcz" target="Poznan">
+      <data key="d1">777</data>
+      <data key="d2">744</data>
+    </edge>
+    <edge source="Bydgoszcz" target="Warsaw">
+      <data key="d1">777</data>
+      <data key="d2">1088</data>
+    </edge>
+    <edge source="Kolobrzeg" target="Szczecin">
+      <data key="d1">777</data>
+      <data key="d2">948</data>
+    </edge>
+    <edge source="Katowice" target="Krakow">
+      <data key="d1">777</data>
+      <data key="d2">832</data>
+    </edge>
+    <edge source="Katowice" target="Lodz">
+      <data key="d1">777</data>
+      <data key="d2">724</data>
+    </edge>
+    <edge source="Katowice" target="Wroclaw">
+      <data key="d1">777</data>
+      <data key="d2">832</data>
+    </edge>
+    <edge source="Krakow" target="Rzeszow">
+      <data key="d1">777</data>
+      <data key="d2">1000</data>
+    </edge>
+    <edge source="Krakow" target="Warsaw">
+      <data key="d1">777</data>
+      <data key="d2">1296</data>
+    </edge>
+    <edge source="Bialystok" target="Rzeszow">
+      <data key="d1">777</data>
+      <data key="d2">1296</data>
+    </edge>
+    <edge source="Bialystok" target="Warsaw">
+      <data key="d1">777</data>
+      <data key="d2">1000</data>
+    </edge>
+    <edge source="Lodz" target="Warsaw">
+      <data key="d1">777</data>
+      <data key="d2">660</data>
+    </edge>
+    <edge source="Lodz" target="Wroclaw">
+      <data key="d1">777</data>
+      <data key="d2">1220</data>
+    </edge>
+    <edge source="Poznan" target="Szczecin">
+      <data key="d1">777</data>
+      <data key="d2">568</data>
+    </edge>
+    <edge source="Poznan" target="Wroclaw">
+      <data key="d1">777</data>
+      <data key="d2">780</data>
+    </edge>
+    <edge source="Gdansk" target="Bialystok">
+      <data key="d1">777</data>
+      <data key="d2">1176</data>
+    </edge>
+  </graph>
+</graphml>

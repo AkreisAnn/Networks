@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="ATLAM5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-84.3833" y="33.75"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="ATLAng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-85.5" y="34.5"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="CHINng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-87.6167" y="41.8333"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="DNVRng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-105.0" y="40.75"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="HSTNng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-95.517364" y="29.770031"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="IPLSng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-86.159535" y="39.780622"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="KSCYng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-96.596704" y="38.961694"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="LOSAng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-118.25" y="34.05"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="NYCMng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-73.9667" y="40.7833"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="SNVAng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-122.02553" y="37.38575"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="STTLng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-122.3" y="47.6"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="WASHng">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-77.026842" y="38.897303"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="ATLAng" target="ATLAM5">
+      <data key="d1">40000</data>
+      <data key="d2">133</data>
+    </edge>
+    <edge source="HSTNng" target="ATLAng">
+      <data key="d1">40000</data>
+      <data key="d2">1081</data>
+    </edge>
+    <edge source="IPLSng" target="ATLAng">
+      <data key="d1">40000</data>
+      <data key="d2">591</data>
+    </edge>
+    <edge source="WASHng" target="ATLAng">
+      <data key="d1">40000</data>
+      <data key="d2">901</data>
+    </edge>
+    <edge source="IPLSng" target="CHINng">
+      <data key="d1">40000</data>
+      <data key="d2">260</data>
+    </edge>
+    <edge source="NYCMng" target="CHINng">
+      <data key="d1">40000</data>
+      <data key="d2">1147</data>
+    </edge>
+    <edge source="KSCYng" target="DNVRng">
+      <data key="d1">40000</data>
+      <data key="d2">745</data>
+    </edge>
+    <edge source="SNVAng" target="DNVRng">
+      <data key="d1">40000</data>
+      <data key="d2">1516</data>
+    </edge>
+    <edge source="STTLng" target="DNVRng">
+      <data key="d1">40000</data>
+      <data key="d2">1573</data>
+    </edge>
+    <edge source="KSCYng" target="HSTNng">
+      <data key="d1">40000</data>
+      <data key="d2">1028</data>
+    </edge>
+    <edge source="LOSAng" target="HSTNng">
+      <data key="d1">40000</data>
+      <data key="d2">2196</data>
+    </edge>
+    <edge source="KSCYng" target="IPLSng">
+      <data key="d1">40000</data>
+      <data key="d2">903</data>
+    </edge>
+    <edge source="SNVAng" target="LOSAng">
+      <data key="d1">40000</data>
+      <data key="d2">505</data>
+    </edge>
+    <edge source="WASHng" target="NYCMng">
+      <data key="d1">40000</data>
+      <data key="d2">336</data>
+    </edge>
+    <edge source="STTLng" target="SNVAng">
+      <data key="d1">40000</data>
+      <data key="d2">1138</data>
+    </edge>
+  </graph>
+</graphml>

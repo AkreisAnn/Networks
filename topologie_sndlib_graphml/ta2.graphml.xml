@@ -1,0 +1,895 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="N1">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="243.0" y="574.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N2">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="264.0" y="363.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N3">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="106.0" y="465.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N4">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="76.0" y="202.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N5">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="78.0" y="353.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N6">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="208.0" y="207.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N7">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="77.0" y="602.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N8">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="221.0" y="73.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N9">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="139.0" y="349.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N10">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="245.0" y="308.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N11">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="142.0" y="121.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N12">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="67.0" y="87.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N13">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="217.0" y="716.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N14">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="222.0" y="606.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N15">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="21.0" y="214.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N16">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="112.0" y="638.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N17">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="190.0" y="172.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N18">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="21.0" y="673.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N19">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="238.0" y="155.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N20">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="61.0" y="387.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N21">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="96.0" y="388.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N22">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="164.0" y="579.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N23">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="213.0" y="651.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N24">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="15.0" y="309.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N25">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="108.0" y="317.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N26">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="50.0" y="269.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N27">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="124.0" y="224.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N28">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="204.0" y="441.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N29">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="207.0" y="368.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N30">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="188.0" y="348.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N31">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="225.0" y="531.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N32">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="234.0" y="480.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N33">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="160.0" y="282.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N34">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="60.0" y="550.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N35">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="129.0" y="85.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N36">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="161.0" y="528.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N37">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="296.0" y="427.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N38">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="105.0" y="355.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N39">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="268.0" y="485.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N40">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="107.0" y="533.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N41">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="183.0" y="620.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N42">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="286.0" y="295.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N43">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="256.0" y="612.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N44">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="23.0" y="607.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N45">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="287.0" y="131.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N46">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="293.0" y="450.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N47">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="241.0" y="238.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N48">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="53.0" y="296.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N49">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="82.0" y="238.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N50">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="156.0" y="492.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N51">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="36.0" y="365.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N52">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="63.0" y="459.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N53">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="190.0" y="555.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N54">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="293.0" y="397.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N55">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="34.0" y="518.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N56">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="21.0" y="544.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N57">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="18.0" y="163.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N58">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="64.0" y="425.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N59">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="88.0" y="155.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N60">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="24.0" y="97.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N61">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="85.0" y="294.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N62">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="130.0" y="704.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N63">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="175.0" y="232.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N64">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="53.0" y="649.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="N65">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="295.0" y="601.0"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="N1" target="N31">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N3" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N5" target="N51">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N5" target="N25">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N8" target="N35">
+      <data key="d1">41328000</data>
+      <data key="d2">15036652.5</data>
+    </edge>
+    <edge source="N8" target="N45">
+      <data key="d1">41328000</data>
+      <data key="d2">21552535.25</data>
+    </edge>
+    <edge source="N9" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N10" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">12029322</data>
+    </edge>
+    <edge source="N10" target="N42">
+      <data key="d1">41328000</data>
+      <data key="d2">18043983</data>
+    </edge>
+    <edge source="N10" target="N2">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N13" target="N23">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N13" target="N62">
+      <data key="d1">41328000</data>
+      <data key="d2">11528100.25</data>
+    </edge>
+    <edge source="N14" target="N22">
+      <data key="d1">41328000</data>
+      <data key="d2">3508552.25</data>
+    </edge>
+    <edge source="N14" target="N1">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N15" target="N59">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N16" target="N7">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N17" target="N19">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N17" target="N6">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N18" target="N64">
+      <data key="d1">41328000</data>
+      <data key="d2">7017104.5</data>
+    </edge>
+    <edge source="N18" target="N44">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N19" target="N45">
+      <data key="d1">41328000</data>
+      <data key="d2">8019548</data>
+    </edge>
+    <edge source="N21" target="N58">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N21" target="N9">
+      <data key="d1">41328000</data>
+      <data key="d2">2004887</data>
+    </edge>
+    <edge source="N22" target="N41">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N24" target="N51">
+      <data key="d1">41328000</data>
+      <data key="d2">13532987.25</data>
+    </edge>
+    <edge source="N24" target="N48">
+      <data key="d1">41328000</data>
+      <data key="d2">2506108.75</data>
+    </edge>
+    <edge source="N24" target="N26">
+      <data key="d1">41328000</data>
+      <data key="d2">16540317.75</data>
+    </edge>
+    <edge source="N25" target="N61">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N26" target="N15">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N27" target="N49">
+      <data key="d1">41328000</data>
+      <data key="d2">6515882.75</data>
+    </edge>
+    <edge source="N27" target="N17">
+      <data key="d1">41328000</data>
+      <data key="d2">11026878.5</data>
+    </edge>
+    <edge source="N28" target="N32">
+      <data key="d1">41328000</data>
+      <data key="d2">2506108.75</data>
+    </edge>
+    <edge source="N28" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">3508552.25</data>
+    </edge>
+    <edge source="N28" target="N29">
+      <data key="d1">41328000</data>
+      <data key="d2">3508552.25</data>
+    </edge>
+    <edge source="N28" target="N31">
+      <data key="d1">41328000</data>
+      <data key="d2">1503665.25</data>
+    </edge>
+    <edge source="N29" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">3007330.5</data>
+    </edge>
+    <edge source="N31" target="N32">
+      <data key="d1">41328000</data>
+      <data key="d2">2004887</data>
+    </edge>
+    <edge source="N33" target="N9">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N33" target="N10">
+      <data key="d1">41328000</data>
+      <data key="d2">9523213.25</data>
+    </edge>
+    <edge source="N33" target="N38">
+      <data key="d1">41328000</data>
+      <data key="d2">7017104.5</data>
+    </edge>
+    <edge source="N33" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">9021991.5</data>
+    </edge>
+    <edge source="N34" target="N55">
+      <data key="d1">41328000</data>
+      <data key="d2">14535430.75</data>
+    </edge>
+    <edge source="N34" target="N64">
+      <data key="d1">41328000</data>
+      <data key="d2">12530543.75</data>
+    </edge>
+    <edge source="N35" target="N12">
+      <data key="d1">41328000</data>
+      <data key="d2">15537874.25</data>
+    </edge>
+    <edge source="N35" target="N11">
+      <data key="d1">41328000</data>
+      <data key="d2">7017104.5</data>
+    </edge>
+    <edge source="N36" target="N50">
+      <data key="d1">41328000</data>
+      <data key="d2">3007330.5</data>
+    </edge>
+    <edge source="N37" target="N54">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N37" target="N46">
+      <data key="d1">41328000</data>
+      <data key="d2">6014661</data>
+    </edge>
+    <edge source="N38" target="N25">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N38" target="N20">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N39" target="N31">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N39" target="N2">
+      <data key="d1">41328000</data>
+      <data key="d2">8019548</data>
+    </edge>
+    <edge source="N40" target="N7">
+      <data key="d1">41328000</data>
+      <data key="d2">6014661</data>
+    </edge>
+    <edge source="N40" target="N50">
+      <data key="d1">41328000</data>
+      <data key="d2">3007330.5</data>
+    </edge>
+    <edge source="N41" target="N23">
+      <data key="d1">41328000</data>
+      <data key="d2">10024435</data>
+    </edge>
+    <edge source="N42" target="N45">
+      <data key="d1">41328000</data>
+      <data key="d2">12530543.75</data>
+    </edge>
+    <edge source="N43" target="N1">
+      <data key="d1">41328000</data>
+      <data key="d2">6515882.75</data>
+    </edge>
+    <edge source="N43" target="N13">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N44" target="N56">
+      <data key="d1">41328000</data>
+      <data key="d2">7518326.25</data>
+    </edge>
+    <edge source="N45" target="N35">
+      <data key="d1">41328000</data>
+      <data key="d2">18043983</data>
+    </edge>
+    <edge source="N47" target="N42">
+      <data key="d1">41328000</data>
+      <data key="d2">13031765.5</data>
+    </edge>
+    <edge source="N47" target="N45">
+      <data key="d1">41328000</data>
+      <data key="d2">18043983</data>
+    </edge>
+    <edge source="N48" target="N61">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N49" target="N4">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N49" target="N26">
+      <data key="d1">41328000</data>
+      <data key="d2">5513439.25</data>
+    </edge>
+    <edge source="N52" target="N3">
+      <data key="d1">41328000</data>
+      <data key="d2">2506108.75</data>
+    </edge>
+    <edge source="N52" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">7518326.25</data>
+    </edge>
+    <edge source="N53" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">8019548</data>
+    </edge>
+    <edge source="N53" target="N22">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N53" target="N36">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N54" target="N2">
+      <data key="d1">41328000</data>
+      <data key="d2">3508552.25</data>
+    </edge>
+    <edge source="N55" target="N52">
+      <data key="d1">41328000</data>
+      <data key="d2">11528100.25</data>
+    </edge>
+    <edge source="N55" target="N56">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N55" target="N51">
+      <data key="d1">41328000</data>
+      <data key="d2">9523213.25</data>
+    </edge>
+    <edge source="N58" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N58" target="N20">
+      <data key="d1">41328000</data>
+      <data key="d2">2506108.75</data>
+    </edge>
+    <edge source="N59" target="N45">
+      <data key="d1">41328000</data>
+      <data key="d2">17542761.25</data>
+    </edge>
+    <edge source="N59" target="N4">
+      <data key="d1">41328000</data>
+      <data key="d2">3508552.25</data>
+    </edge>
+    <edge source="N59" target="N57">
+      <data key="d1">41328000</data>
+      <data key="d2">8520769.75</data>
+    </edge>
+    <edge source="N60" target="N57">
+      <data key="d1">41328000</data>
+      <data key="d2">6014661</data>
+    </edge>
+    <edge source="N60" target="N12">
+      <data key="d1">41328000</data>
+      <data key="d2">4510995.75</data>
+    </edge>
+    <edge source="N62" target="N16">
+      <data key="d1">41328000</data>
+      <data key="d2">19046426.5</data>
+    </edge>
+    <edge source="N63" target="N25">
+      <data key="d1">41328000</data>
+      <data key="d2">9523213.25</data>
+    </edge>
+    <edge source="N63" target="N27">
+      <data key="d1">41328000</data>
+      <data key="d2">8019548</data>
+    </edge>
+    <edge source="N63" target="N33">
+      <data key="d1">41328000</data>
+      <data key="d2">5012217.5</data>
+    </edge>
+    <edge source="N63" target="N6">
+      <data key="d1">41328000</data>
+      <data key="d2">7518326.25</data>
+    </edge>
+    <edge source="N65" target="N46">
+      <data key="d1">41328000</data>
+      <data key="d2">20048870</data>
+    </edge>
+    <edge source="N65" target="N43">
+      <data key="d1">41328000</data>
+      <data key="d2">4009774</data>
+    </edge>
+    <edge source="N3" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">11528100.25</data>
+    </edge>
+    <edge source="N10" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">15036652.5</data>
+    </edge>
+    <edge source="N10" target="N47">
+      <data key="d1">41328000</data>
+      <data key="d2">31075748.5</data>
+    </edge>
+    <edge source="N31" target="N14">
+      <data key="d1">41328000</data>
+      <data key="d2">9523213.25</data>
+    </edge>
+    <edge source="N14" target="N41">
+      <data key="d1">41328000</data>
+      <data key="d2">7518326.25</data>
+    </edge>
+    <edge source="N16" target="N13">
+      <data key="d1">41328000</data>
+      <data key="d2">30574526.75</data>
+    </edge>
+    <edge source="N24" target="N15">
+      <data key="d1">41328000</data>
+      <data key="d2">21051313.5</data>
+    </edge>
+    <edge source="N39" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">6515882.75</data>
+    </edge>
+    <edge source="N39" target="N46">
+      <data key="d1">41328000</data>
+      <data key="d2">22554978.75</data>
+    </edge>
+    <edge source="N40" target="N13">
+      <data key="d1">41328000</data>
+      <data key="d2">42102627</data>
+    </edge>
+    <edge source="N40" target="N16">
+      <data key="d1">41328000</data>
+      <data key="d2">11528100.25</data>
+    </edge>
+    <edge source="N40" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">21051313.5</data>
+    </edge>
+    <edge source="N46" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">29070861.5</data>
+    </edge>
+    <edge source="N55" target="N24">
+      <data key="d1">41328000</data>
+      <data key="d2">23056200.5</data>
+    </edge>
+    <edge source="N55" target="N28">
+      <data key="d1">41328000</data>
+      <data key="d2">22053757</data>
+    </edge>
+    <edge source="N59" target="N35">
+      <data key="d1">41328000</data>
+      <data key="d2">34083079</data>
+    </edge>
+    <edge source="N59" target="N60">
+      <data key="d1">41328000</data>
+      <data key="d2">14535430.75</data>
+    </edge>
+    <edge source="N63" target="N30">
+      <data key="d1">41328000</data>
+      <data key="d2">13532987.25</data>
+    </edge>
+    <edge source="N63" target="N59">
+      <data key="d1">41328000</data>
+      <data key="d2">22554978.75</data>
+    </edge>
+    <edge source="N65" target="N13">
+      <data key="d1">41328000</data>
+      <data key="d2">12530543.75</data>
+    </edge>
+  </graph>
+</graphml>

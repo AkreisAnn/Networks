@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:net="http://sndlib.zib.de/network" xmlns:y="http://www.yworks.com/xml/graphml" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d0" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d1" attr.name="capacity" attr.type="float"/>
+  <key for="edge" id="d2" attr.name="cost" attr.type="float"/>
+  <graph edgedefault="undirected">
+    <node id="Amsterdam">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="4.51" y="52.2"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Athens">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="23.42" y="37.58"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Barcelona">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="2.07" y="41.22"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Belgrade">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="20.25" y="44.47"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Berlin">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="13.21" y="52.31"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Bordeaux">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-0.35" y="44.51"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Brussels">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="4.2" y="50.49"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Budapest">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="19.02" y="47.29"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Copenhagen">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.32" y="55.41"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Dublin">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-6.15" y="53.21"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Frankfurt">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.38" y="50.07"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Glasgow">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-4.16" y="55.51"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Hamburg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.0" y="53.33"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="London">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-0.07" y="51.3"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Lyon">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="4.49" y="45.43"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Madrid">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="-3.42" y="40.25"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Milan">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="9.11" y="45.28"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Munich">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="11.33" y="48.07"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Oslo">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="10.45" y="59.54"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Paris">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="2.2" y="48.51"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Prague">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="14.25" y="50.04"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Rome">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="12.29" y="41.53"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Stockholm">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="18.03" y="59.19"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Strasbourg">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="7.45" y="48.35"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Vienna">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="16.21" y="48.12"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Warsaw">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="20.59" y="52.14"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Zagreb">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="15.57" y="45.48"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="Zurich">
+      <data key="d0">
+        <y:ShapeNode>
+          <y:Geometry height="10.0" width="10.0" x="8.32" y="47.22"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge source="Amsterdam" target="Brussels">
+      <data key="d1">16400</data>
+      <data key="d2">1903600</data>
+    </edge>
+    <edge source="Amsterdam" target="Glasgow">
+      <data key="d1">16400</data>
+      <data key="d2">3709600</data>
+    </edge>
+    <edge source="Amsterdam" target="Hamburg">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Amsterdam" target="London">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Athens" target="Belgrade">
+      <data key="d1">16400</data>
+      <data key="d2">4070800</data>
+    </edge>
+    <edge source="Athens" target="Rome">
+      <data key="d1">16400</data>
+      <data key="d2">4612600</data>
+    </edge>
+    <edge source="Barcelona" target="Lyon">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Barcelona" target="Madrid">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Belgrade" target="Budapest">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Belgrade" target="Zagreb">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Berlin" target="Copenhagen">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Berlin" target="Hamburg">
+      <data key="d1">16400</data>
+      <data key="d2">2084200</data>
+    </edge>
+    <edge source="Berlin" target="Munich">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Berlin" target="Prague">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Berlin" target="Warsaw">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Bordeaux" target="Madrid">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Bordeaux" target="Paris">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Brussels" target="Frankfurt">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Brussels" target="Paris">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Budapest" target="Prague">
+      <data key="d1">16400</data>
+      <data key="d2">2806600</data>
+    </edge>
+    <edge source="Budapest" target="Warsaw">
+      <data key="d1">16400</data>
+      <data key="d2">3167800</data>
+    </edge>
+    <edge source="Copenhagen" target="Oslo">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Dublin" target="Glasgow">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Dublin" target="London">
+      <data key="d1">16400</data>
+      <data key="d2">2806600</data>
+    </edge>
+    <edge source="Frankfurt" target="Hamburg">
+      <data key="d1">16400</data>
+      <data key="d2">2626000</data>
+    </edge>
+    <edge source="Frankfurt" target="Munich">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+    <edge source="Frankfurt" target="Strasbourg">
+      <data key="d1">16400</data>
+      <data key="d2">1903600</data>
+    </edge>
+    <edge source="London" target="Paris">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Lyon" target="Paris">
+      <data key="d1">16400</data>
+      <data key="d2">2626000</data>
+    </edge>
+    <edge source="Milan" target="Munich">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Milan" target="Rome">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Milan" target="Zurich">
+      <data key="d1">16400</data>
+      <data key="d2">2084200</data>
+    </edge>
+    <edge source="Munich" target="Vienna">
+      <data key="d1">16400</data>
+      <data key="d2">2445400</data>
+    </edge>
+    <edge source="Oslo" target="Stockholm">
+      <data key="d1">16400</data>
+      <data key="d2">2626000</data>
+    </edge>
+    <edge source="Paris" target="Strasbourg">
+      <data key="d1">16400</data>
+      <data key="d2">2626000</data>
+    </edge>
+    <edge source="Prague" target="Vienna">
+      <data key="d1">16400</data>
+      <data key="d2">2084200</data>
+    </edge>
+    <edge source="Rome" target="Zagreb">
+      <data key="d1">16400</data>
+      <data key="d2">2987200</data>
+    </edge>
+    <edge source="Stockholm" target="Warsaw">
+      <data key="d1">16400</data>
+      <data key="d2">4070800</data>
+    </edge>
+    <edge source="Zurich" target="Lyon">
+      <data key="d1">1026960</data>
+      <data key="d2">51783260</data>
+    </edge>
+    <edge source="Strasbourg" target="Zurich">
+      <data key="d1">16400</data>
+      <data key="d2">1723000</data>
+    </edge>
+    <edge source="Vienna" target="Zagreb">
+      <data key="d1">16400</data>
+      <data key="d2">2264800</data>
+    </edge>
+  </graph>
+</graphml>
